@@ -9,3 +9,4 @@ game: http://www.miniclip.com/games/sushi-go-round/en/
 dependencies:
 numpy - http://www.numpy.org/
 PIL - http://www.pythonware.com/products/pil/
+mousebot - https://github.com/gurch101/MouseBot
